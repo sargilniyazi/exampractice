@@ -21,3 +21,4 @@ document.getElementById("result")innerHTML = "Factorial is "+num +" is " +b;
 </script>
 </body>
 </html>
+some changes made
