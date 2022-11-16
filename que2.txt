@@ -1,0 +1,23 @@
+<html>
+<head>
+<title> factorial </title>
+</head>
+<body style="text-align:center;font-size:30px;">
+Enter any number to find its factorial:<input id = "num">
+<br><br>
+button onclick = "Fact()">factoial</buton>
+<p id = "result"></p>
+<script>
+function Fact(){
+var a,var b;
+var b=1;
+num = document.getElementById("num").value;
+for(a =1; a<=num; a++)
+{
+b=b*a;
+}
+document.getElementById("result")innerHTML = "Factorial is "+num +" is " +b;
+}
+</script>
+</body>
+</html>
