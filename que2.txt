@@ -22,3 +22,4 @@ document.getElementById("result")innerHTML = "Factorial is "+num +" is " +b;
 </body>
 </html>
 some changes made
+changes from remote to local
