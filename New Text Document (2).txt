@@ -1,0 +1,6 @@
+Q. CREATE A NEW ITEM demo2 and add another program of java.........
+
+
+
+Now try to use post build step where the after demo2 build,
+the build of demo1 is executed...............[use post build step action]
